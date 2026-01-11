@@ -13,6 +13,7 @@ Calculates accuracy of typed text
 Shows time taken to complete typing
 
 Reset and try again functionality
+
 **How to Use**
 
 Open the application.
