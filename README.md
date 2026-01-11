@@ -1,6 +1,6 @@
 A simple Typing Speed Test application built using Python and Tkinter. This project helps users improve their typing speed and accuracy by measuring how fast and accurately they can type a given sentence.
 
-Features
+**Features**
 
 User-friendly GUI with Tkinter
 
@@ -13,7 +13,7 @@ Calculates accuracy of typed text
 Shows time taken to complete typing
 
 Reset and try again functionality
-How to Use
+**How to Use**
 
 Open the application.
 
